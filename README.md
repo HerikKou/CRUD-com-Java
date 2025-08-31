@@ -24,6 +24,5 @@ Listagem de todos os produtos
 
 Visualização da quantidade total de produtos
 
-#Como Executar
---
-<img width="955" height="146" alt="image" src="https://github.com/user-attachments/assets/59bc9a1d-5d3f-499f-950a-13082a0cccf1" />
+
+

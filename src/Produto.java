@@ -49,6 +49,10 @@ public class Produto{
 class Main{
     static List<Produto> products = new ArrayList<>();
     public static void main(String[] args) {
+            if(args.length > 0 && args[0].equals("test")) {
+        testCRUD();
+        return;
+    }
         int op ;
         Scanner sc = new Scanner(System.in);
         do {
